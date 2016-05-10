@@ -5,16 +5,16 @@ A small library providing OpenLayers2 Geometry functions to node.js applications
 
 ## Installation
 
-  npm install openlayers-geometry --save
+    npm install openlayers-geometry --save
 
 ## Usage
 Require it first:
 
-  var OpenLayers = require('openlayers-geometry').OpenLayers;
+    var OpenLayers = require('openlayers-geometry').OpenLayers;
 
 Then use as you would on frontend:
 
-  var olpoint = new OpenLayers.Geometry.Point(layerCoords[0], layerCoords[1]);
+    var olpoint = new OpenLayers.Geometry.Point(layerCoords[0], layerCoords[1]);
 
 ## Release History
 
