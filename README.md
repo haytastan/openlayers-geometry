@@ -10,7 +10,7 @@ A small library providing OpenLayers2 Geometry functions to node.js applications
 ## Usage
 Require it first:
 
-    var OpenLayers = require('openlayers-geometry').OpenLayers;
+    var OpenLayers = require('openlayers-geometry');
 
 Then use as you would on frontend:
 
@@ -19,3 +19,9 @@ Then use as you would on frontend:
 ## Release History
 
 * 1.0.0 Initial release
+
+## Licence
+MIT
+
+## OpenLayers license
+OpenLayers is completely free, Open Source JavaScript, released under the [2-clause BSD License](https://raw.githubusercontent.com/openlayers/openlayers/master/license.txt) (also known as the FreeBSD).
