@@ -1,0 +1,24 @@
+{
+  "name": "openlayers-geometry",
+  "version": "1.0.0",
+  "description": "Use OpenLayers2 Geometry functions with node.js",
+  "main": "openlayer-geomtery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jukra/openlayers-geometry.git"
+  },
+  "keywords": [
+    "openlayers",
+    "geometry",
+    "projection"
+  ],
+  "author": "Jukka Rautanen <jukka@sirdar.fi> (http://sirdar.fi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jukra/openlayers-geometry/issues"
+  },
+  "homepage": "https://github.com/jukra/openlayers-geometry#readme"
+}
